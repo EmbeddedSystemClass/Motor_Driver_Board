@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Sheet1.SchDoc
+Record=SheetSymbol|SourceDocument=Sheet1.SchDoc|Designator=H1|SchDesignator=repeat(H,1,3)|FileName=HalfBridge.SchDoc|SymbolType=Normal|RawFileName=HalfBridge.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Sheet1.SchDoc|Designator=H2|SchDesignator=repeat(H,1,3)|FileName=HalfBridge.SchDoc|SymbolType=Normal|RawFileName=HalfBridge.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Sheet1.SchDoc|Designator=H3|SchDesignator=repeat(H,1,3)|FileName=HalfBridge.SchDoc|SymbolType=Normal|RawFileName=HalfBridge.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
