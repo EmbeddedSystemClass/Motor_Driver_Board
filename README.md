@@ -4,7 +4,7 @@ The motor driver board is used to drive the motor and report the over current si
 
 We use half-bridge driver shown in the figure below for BLDC motors. 
 
-![](./Images/H_Bridge_Driver.png)
+![](./Images/H_Bridge_Driver.PNG)
 
 The main features are:
 
