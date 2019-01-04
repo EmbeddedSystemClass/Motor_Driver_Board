@@ -72,10 +72,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LBHYNIAX
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for BaseBoardV2.3\Design Rule Check - BaseBoardV2.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
